@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning coding and programming
 - 💞️ I’m looking to collaborate on projects to improve my portfolio
 - 📫 How to reach me on LinedIn: Alexandre Caluwaerts; and Instagram: @alexandrecaluwaerts
-- 😄 Pronouns: HE/Him
 - ⚡ Fun fact: I'm a black belt in Judo.
 
 <!---
